@@ -8,7 +8,7 @@ To add a new Company, open the Configuration tab in the side menu. Under System 
 
 ### How to Add a New Tax Band 
 To add a new Tax Configuration, open the Configuration tab from the side menu. Under System Configuration, click Tax Configuration. Under the Tax Bands tab, click New and enter the tax band details (Band Name, Start Amount, End Amount, and Rate Percentage), then click Add. 
-#
+
 Note: Tax Band information differs depending on a country’s tax regulations.
 
 ## Basic Data Management
@@ -16,7 +16,7 @@ Note: Tax Band information differs depending on a country’s tax regulations.
 ### Adding & Deleting Banks
 
 The Banks tab contains a list of all financial institutions available across the platform.
-#
+
 To add a new Bank, open the Configuration tab from the side menu. Under Basic Data Management, click Banks, then click New.   
 ![][image9]  
 
@@ -30,7 +30,7 @@ Then confirm that you want to delete the Bank by clicking the Delete Button.
 ### Adding & Deleting Countries 
 
 The Countries tab contains a list of all supported countries used across payroll workflows. (e.g. Trinidad, Barbados)
-#
+
 To add a new Country, open the Configuration tab from the side menu. Under Basic Data Management, click Countries, then click New.   
 ![][image9]  
 Enter the necessary details of the country (Country Code, Country Name, Description), then click Add. 
@@ -43,7 +43,7 @@ Then confirm that you want to delete the Country by clicking the Delete Button.
 ### Adding & Deleting Departments 
 
 The Departments tab contains a list of all Departments. (e.g. Research and Development, Accounting and Finance)
-#
+
 To add a new Department, open the Configuration tab from the side menu. Under Basic Data Management, click Departments, then click New.   
 ![][image9]  
 Enter the necessary department details (Department Code, Department Name) and optional details (Description, Status) if desired, then click Add. 
@@ -98,7 +98,7 @@ Then confirm that you want to delete that Contact Type by clicking the Delete Bu
 ### Adding & Deleting Relationships
 
 The Relationships tab contains a list of all relationship type codes used across member and employee records. (e.g. Mother, Son)
-#
+
 
 To add a new Relationship Type, open the Configuration tab from the side menu. Under Personnel Data, click Relationships, then click New.
 
@@ -129,7 +129,7 @@ Then confirm that you want to delete that Address Type by clicking the Delete Bu
 ### Adding & Deleting Note Types
 
 The Note Types tab contains a list of all classifications used for notes and communications.
-#
+
 To add a new Note Type, open the Configuration tab from the side menu. Under Personnel Data, click Note Types, then click New.
 
 Enter the necessary Note Type details (Note Type Code, Description), then click Add.
@@ -145,7 +145,7 @@ Then confirm that you want to delete that Note Type by clicking the Delete Butto
 ### Adding Piece Work Codes
 
 The Piece Work Codes tab contains a list of all Piece Work Codes and hourly rates for an organization.
-#
+
 
 To add a new Piece Work Code, open the Configuration tab from the side menu. Under Payroll Configuration, click Piece Work Codes, then click New.
 
@@ -160,7 +160,7 @@ Then confirm that you want to delete that Piece Work Code by clicking the Delete
 ### Adding NIS Codes 
 
 The NIS Codes tab contains a list of all National Insurance Scheme (NIS) codes and contribution limits.
-#
+
 To add a new NIS Code, open the Configuration tab from the side menu. Under Payroll Configuration, click NIS Codes, then click New.
 
 Enter the necessary NIS Codes Code details (Code Number, Employee Rate (%), Employer Rate (%), Weekly Max, Bi-Weekly Max and Monthly Max), then click Add.

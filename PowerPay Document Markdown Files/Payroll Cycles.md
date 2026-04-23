@@ -16,6 +16,4 @@ When selected, you must fill in details such as:
 - Period  
 - Payment Date   
 - Payment Settings (Cash, Cheque and Bank)
- > If you select Cheque, you will be prompted to put a Starting Cheque Number 
-
-# 
+ > Note: If you select Cheque, you will be prompted to put a Starting Cheque Number 
